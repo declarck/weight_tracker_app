@@ -1,4 +1,4 @@
-# weight_tracker_app_yt
+# weight_tracker_app
 
 A new Flutter project.
 
